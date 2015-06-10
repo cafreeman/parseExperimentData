@@ -1,0 +1,14 @@
+Package: parseExperimentData
+Type: Package
+Title: Parse Experimental Data
+Version: 0.1
+Date: 2015-06-09
+Author: cfree/sqlz
+Depends:
+  R (>= 3.1),
+  dplyr,
+  magrittr,
+  tidyr
+License: GNU Public License
+Collate:
+  'parseExperimentData.R'
