@@ -6,6 +6,7 @@ To install directly from GitHub, use the following command:
 ```R
 library(devtools)
 install_github("cafreeman/parseExperimentData")
+```
 
 ###Example usage:
 ```R
